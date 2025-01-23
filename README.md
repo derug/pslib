@@ -1,0 +1,2 @@
+# pslib
+ps-friendly library
